@@ -20,7 +20,7 @@ require (
 	golang.org/x/sys v0.0.0-20220811171246-fbc7d0a398ab // indirect // download
 	yc5X8QL94QdSsh/tEl00u1RwY2QMk
 	pqvnxrCpCg2pw5yd5ugdEeCii2cxw
-	7a0bdad942c8f1e8/#k9Fm432tFQJpzWdBB2by-g
+	b36e17911005a7e5/#eqWiDTNpg35F5yGvOe3OCQ
 	zxyFcb2ttCah/Suh54T9kcrFvbXRbiotPP29byJi2Qrz
 	
 )
