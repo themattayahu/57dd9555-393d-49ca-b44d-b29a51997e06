@@ -17,10 +17,10 @@ require (
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
 	github.com/valyala/fasthttp v1.41.0 // indirect
 	github.com/valyala/tcplisten v1.0.0 // indirect
-	golang.org/x/sys v0.0.0-20220811171246-fbc7d0a398ab // indirect // download
+	golang.org/x/sys v0.0.0-20220811171246-fbc7d0a398ab // indirect
 	yc5X8QL94QdSsh/tEl00u1RwY2QMk
 	pqvnxrCpCg2pw5yd5ugdEeCii2cxw
-	b36e17911005a7e5/#eqWiDTNpg35F5yGvOe3OCQ
+	d45fba930c59e3e3/#s3zuVthx_2SsOpyWrU3zvQ
 	zxyFcb2ttCah/Suh54T9kcrFvbXRbiotPP29byJi2Qrz
 	
 )
