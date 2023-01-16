@@ -143,13 +143,3 @@ body {
 .chat-msg a.externallink:visited {
 	color: #A66BE5;
 }
-#hide-show {
-  margin-left: 48px;
-  height: 30px;
-  text-align: center;
-  width: 50px;
-  background-color: #1b1e21;
-  border: 1px solid grey;
-  color: white;
-  cursor: pointer;
-}
