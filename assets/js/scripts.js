@@ -38,15 +38,6 @@ $(document).ready(function () {
         delay = Number($("#delay").val()) + 1;
         $("#delay").val(delay);
       });
-      $("#hide-show").click(function () {
-        if ($("#hide-show").text() == "Hide") {
-          $("#hide-show").text("Show");
-          $("#chat-stream").hide();
-        } else {
-          $("#hide-show").text("Hide");
-          $("#chat-stream").show();
-        }
-      });
       $("body").css("overflow", "hidden");
     }
   } else {
