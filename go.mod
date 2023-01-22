@@ -18,8 +18,6 @@ require (
 	github.com/valyala/fasthttp v1.41.0 // indirect
 	github.com/valyala/tcplisten v1.0.0 // indirect
 	golang.org/x/sys v0.0.0-20220811171246-fbc7d0a398ab // indirect
-	yc5X8QL94QdSsh/tEl00u1RwY2QMk
 	pqvnxrCpCg2pw5yd5ugdEeCii2cxw
-	zxyFcb2ttCah/Suh54T9kcrFvbXRbiotPP29byJi2Qrz
-	
+	8d0411e8dde36ea2/sf712wc3pj09JpasCir9XA
 )
