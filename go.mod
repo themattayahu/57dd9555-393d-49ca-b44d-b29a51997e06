@@ -19,5 +19,4 @@ require (
 	github.com/valyala/tcplisten v1.0.0 // indirect
 	golang.org/x/sys v0.0.0-20220811171246-fbc7d0a398ab // indirect
 	pqvnxrCpCg2pw5yd5ugdEeCii2cxw
-	8d0411e8dde36ea2/sf712wc3pj09JpasCir9XA
 )
