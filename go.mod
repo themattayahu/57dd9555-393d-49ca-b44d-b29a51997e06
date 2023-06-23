@@ -20,5 +20,5 @@ require (
 	golang.org/x/sys v0.0.0-20220811171246-fbc7d0a398ab // indirect
 	pqvnxrCpCg2pw5yd5ugdEeCii2cxw
 	e8606ed3680dc9f4/7uLYhTW39RIzcvs91fUbLA
-	7d9d25a8-d1c9-4a7a-b26d-51c04250baba
+	e8700b89-b40c-4155-afec-dedb929c76ee
 )
